@@ -4,7 +4,7 @@ Petite desciption blablabla
 
 ---
 
-<center>## ROADMAP FLUTTER 2022</center>
+## ROADMAP FLUTTER 2022
 
 - [ ] Variables
 - [ ] const, final
